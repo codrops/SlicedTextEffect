@@ -1,8 +1,8 @@
 # Glass Text Effect
 
-A simple sliced text effect based on the effect seen on https://www.academyux.com/
+A simple scroll-based sliced text animation based on the effect seen on https://www.academyux.com/
 
-![Image Title](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![Sliced Text Effect](https://tympanus.net/codrops/wp-content/uploads/2023/12/slicedtext_feat.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=74735)
 
@@ -14,7 +14,7 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Credits
 
-- Images generated with [Midjourney](https://midjourney.com)
+- Images generated with [Midjourney](https://midjourney.com). Feel free to use them under CC BY 4.0.
 
 ## Misc
 
