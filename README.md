@@ -6,7 +6,7 @@ A simple scroll-based sliced text animation based on the effect seen on https://
 
 [Article on Codrops](https://tympanus.net/codrops/?p=74735)
 
-[Demo](http://tympanus.net/Development/GlassTextEffect/)
+[Demo](http://tympanus.net/Development/SlicedTextEffect/)
 
 ## Installation
 
